@@ -29,9 +29,9 @@
  * 
  */
 var presets = [{
-        name: "Quick Industrial",
+        name: "Quick Speedway",
         maxDrivers: 2,
-        trackName: "Industrial",
+        trackName: "Speedway",
         numberOfLaps: 1,
         upgradesAllowed: true,
         betAmount: 0,
@@ -39,11 +39,12 @@ var presets = [{
         password: "",
     },
     {
-        name: "1hr Start - Docks",
-        maxDrivers: 100,
+        name: "XP - Docks",
+        maxDrivers: 2,
         trackName: "Docks",
         numberOfLaps: 100,
-        waitTime: 60,
+        upgradesAllowed: true,
+        waitTime: 1,
         password: "",
     },
 ];
