@@ -4,8 +4,8 @@
 // @version      0.2.1
 // @description  Make it easier and faster to make custom races - Extended from Xiphias's
 // @author       Cryosis7 [926640]
-// @downloadURL  https://raw.githubusercontent.com/cryosis7/torn_userscripts/master/racing-prefills/prefilled_race.js
-// @updateURL    https://raw.githubusercontent.com/cryosis7/torn_userscripts/master/racing-prefills/prefilled_race.js
+// @downloadURL  https://raw.githubusercontent.com/wasilukm/torn_userscripts/refs/heads/custom/racing-prefills/prefilled_race.js
+// @updateURL    https://raw.githubusercontent.com/wasilukm/torn_userscripts/refs/heads/custom/racing-prefills/prefilled_race.js
 // @match        *www.torn.com/loader.php?sid=racing*
 // @grant        none
 // ==/UserScript==
